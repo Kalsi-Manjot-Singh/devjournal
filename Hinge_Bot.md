@@ -13,3 +13,11 @@
 - Added `.gitignore` for cleanup
 
 **Reflection:** Getting familiar with Hinge’s network flow; good progress documenting endpoints.
+
+## Day 3 – July 21, 2025
+- Added a dedicated **logger utility** and updated DaisySMS service to use it  
+- Implemented **device identity utility** for generating Hinge API device headers  
+- Cleaned up documentation and improved project organization  
+- Added `.gitignore` adjustments  
+
+**Reflection:** Starting to build a more solid foundation — logging and device identity will make the flow more realistic and easier to debug.

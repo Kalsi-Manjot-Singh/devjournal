@@ -21,3 +21,12 @@
 - Added `.gitignore` adjustments  
 
 **Reflection:** Starting to build a more solid foundation — logging and device identity will make the flow more realistic and easier to debug.
+
+## Day 4 – July 22, 2025
+- Built and tested **sendOTP function**  
+- Implemented **sendInstallId()** for onboarding  
+- Fixed rate-limiting issues from Hinge by tweaking device handling  
+- Improved full logging for OTP submit + token store  
+- Made edits to onboarding docs for clarity  
+
+**Reflection:** OTP handling is critical — today’s progress means we can reliably get tokens and move deeper into the onboarding flow.

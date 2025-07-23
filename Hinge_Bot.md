@@ -30,3 +30,10 @@
 - Made edits to onboarding docs for clarity  
 
 **Reflection:** OTP handling is critical — today’s progress means we can reliably get tokens and move deeper into the onboarding flow.
+
+## Day 5 – July 23, 2025
+- Completed **onboarding process API docs** in detail  
+- Thorough documentation of request payloads and flows  
+- Set foundation for later automation bot phases  
+
+**Reflection:** Slowed down on coding to really document everything — this will pay off when flows get more complex.

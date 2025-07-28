@@ -37,3 +37,10 @@
 - Set foundation for later automation bot phases  
 
 **Reflection:** Slowed down on coding to really document everything — this will pay off when flows get more complex.
+
+## Day 6 – July 28, 2025
+- Initiated **Hinge onboarding process automation**  
+- First code scaffolding for sequential onboarding steps  
+- Added retries + better structure for API calls  
+
+**Reflection:** The automation journey truly begins — setting up resilience for flaky endpoints.

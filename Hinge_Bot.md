@@ -44,3 +44,10 @@
 - Added retries + better structure for API calls  
 
 **Reflection:** The automation journey truly begins — setting up resilience for flaky endpoints.
+
+## Day 7 – July 31, 2025
+- Finished **email verification flow**  
+- Integrated Mail.tm for disposable emails  
+- Token + account verification working end-to-end  
+
+**Reflection:** Email OTP step complete — one of the bigger blockers out of the way!

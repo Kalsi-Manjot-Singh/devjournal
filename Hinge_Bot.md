@@ -51,3 +51,10 @@
 - Token + account verification working end-to-end  
 
 **Reflection:** Email OTP step complete — one of the bigger blockers out of the way!
+
+## Day 8 – August 1, 2025
+- Built **random date generator utility** for Date of Birth step  
+- Implemented DOB submission to `/user/v3` + flow update  
+- Added better logging around profile state fetch  
+
+**Reflection:** Small step but important — onboarding flow is filling out piece by piece.

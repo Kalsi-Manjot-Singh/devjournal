@@ -58,3 +58,10 @@
 - Added better logging around profile state fetch  
 
 **Reflection:** Small step but important — onboarding flow is filling out piece by piece.
+
+## Day 9 – August 4, 2025
+- Added **proxy manager + geolocation utilities**  
+- Integrated IP-based location into onboarding payloads  
+- Ensured location consistency across profile setup  
+
+**Reflection:** Routing traffic via proxies makes the bot far more realistic — groundwork for scaling.

@@ -65,3 +65,12 @@
 - Ensured location consistency across profile setup  
 
 **Reflection:** Routing traffic via proxies makes the bot far more realistic — groundwork for scaling.
+
+## Day 10 – August 6, 2025
+- Implemented multiple onboarding steps:
+  - Children (Don’t have children)  
+  - Ethnicity (White/Caucasian)  
+  - Relationship type (monogamy)  
+- Added flow updates + logging for each  
+
+**Reflection:** Knocked out 3 profile fields in one day — momentum is building!

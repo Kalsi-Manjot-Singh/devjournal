@@ -74,3 +74,12 @@
 - Added flow updates + logging for each  
 
 **Reflection:** Knocked out 3 profile fields in one day — momentum is building!
+
+## Day 11 – August 7, 2025
+- Added onboarding steps:
+  - Drinking, tobacco, marijuana usage  
+  - Education, politics, religion  
+- Integrated **flow sync + visibility flags**  
+- Started **user flow metrics integration** (screen refs 17–23)  
+
+**Reflection:** The profile setup is getting close to parity with the real Hinge app.

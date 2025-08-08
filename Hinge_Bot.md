@@ -83,3 +83,14 @@
 - Started **user flow metrics integration** (screen refs 17–23)  
 
 **Reflection:** The profile setup is getting close to parity with the real Hinge app.
+
+## Day 12 – August 8, 2025
+- Refactored onboarding into **context-driven architecture**  
+- Shared run context (`ctx`) carrying axios, headers, token, geo, etc.  
+- Split flow into phases:
+  - `otpFlow.js`  
+  - `profileSetup.js`  
+  - `finalize.js`  
+- Improved **email OTP reliability** (extended retries, logging)  
+
+**Reflection:** Huge refactor day — modular architecture will keep the project maintainable.

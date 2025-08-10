@@ -94,3 +94,11 @@
 - Improved **email OTP reliability** (extended retries, logging)  
 
 **Reflection:** Huge refactor day — modular architecture will keep the project maintainable.
+
+## Day 13 – August 10, 2025
+- Standardized logging conventions across the codebase  
+- Removed legacy axios singleton pattern  
+- Added `verifyMetrics.js` for onboarding metric sequence  
+- Expanded developer notes & docs for contributors  
+
+**Reflection:** Took a break from features to clean house — consistency matters in big projects.

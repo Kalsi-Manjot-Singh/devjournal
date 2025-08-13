@@ -102,3 +102,10 @@
 - Expanded developer notes & docs for contributors  
 
 **Reflection:** Took a break from features to clean house — consistency matters in big projects.
+
+## Day 14 – August 13, 2025
+- Implemented **photo upload flow**  
+- Added call to `/product` API  
+- Finalized ctx logging for data export  
+
+**Reflection:** The last big missing piece of onboarding — now we’re close to a full account creation flow.

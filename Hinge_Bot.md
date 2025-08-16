@@ -109,3 +109,10 @@
 - Finalized ctx logging for data export  
 
 **Reflection:** The last big missing piece of onboarding — now we’re close to a full account creation flow.
+
+## Day 15 – August 16, 2025
+- Added **proxy handling improvements**  
+- Built account data export feature  
+- Integrated **Sendbird WS session key** for chat simulation  
+
+**Reflection:** This was about extending functionality beyond onboarding — venturing into persistence and chat infra.

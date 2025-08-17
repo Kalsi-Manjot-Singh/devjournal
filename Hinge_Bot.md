@@ -116,3 +116,9 @@
 - Integrated **Sendbird WS session key** for chat simulation  
 
 **Reflection:** This was about extending functionality beyond onboarding — venturing into persistence and chat infra.
+
+## Day 16 – August 17, 2025
+- Logged `x-auth-state-id` response header to verify account status  
+- Used for debugging session state transitions  
+
+**Reflection:** A small but important debug step to track account lifecycle more reliably.

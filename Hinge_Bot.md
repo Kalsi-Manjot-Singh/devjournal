@@ -122,3 +122,10 @@
 - Used for debugging session state transitions  
 
 **Reflection:** A small but important debug step to track account lifecycle more reliably.
+
+## Day 17 – August 20, 2025
+- Implemented **profileAnswers flow**  
+- Initialized empty prompts object at start of onboarding flow  
+- Captured/replicated more accurate request order  
+
+**Reflection:** Prompts are a core part of Hinge — implementing them made the automation much closer to a real client.

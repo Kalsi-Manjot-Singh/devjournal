@@ -129,3 +129,10 @@
 - Captured/replicated more accurate request order  
 
 **Reflection:** Prompts are a core part of Hinge — implementing them made the automation much closer to a real client.
+
+## Day 18 – August 22, 2025
+- Added **mitmproxy dump script** for capturing live traffic  
+- Adjusted axios/proxy setup for debugging flows  
+- Used dump to validate request/response parity with official client  
+
+**Reflection:** This was all about deep debugging — setting up the proxy pipeline was painful, but worth it.

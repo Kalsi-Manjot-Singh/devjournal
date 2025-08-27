@@ -2,8 +2,6 @@
 
 This is my coding diary. It’s not polished or fancy — just a record of what I build, break, and learn along the way.  
 
-Right now, I’m documenting the **Hinge Bot project** (July–August 2025) in [Hinge Bot.md](./Hinge%20Bot.md).  
-
 ---
 
 ## 🌱 Why I’m Doing This

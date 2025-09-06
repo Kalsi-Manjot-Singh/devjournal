@@ -32,12 +32,13 @@
 **Reflection:** Signup flow is now fully functional with proper validation and token generation. Excited to implement login next and continue building the authentication system.
 
 ## Day 4 - September 06, 2025
--✅ Implemented User Login
+- ✅ Implemented User Login
   - Normalized emails to prevent duplicates
   - On Login, Credentials are validated with bcrypt compare
   - Security Note: Returning a single "Invalid Credentials" for both bad emails and
   passwords to avoid enumeration attacks.
 
 **Reflection:** I now have a working MVP for an auth system
+
 📝 Next step: add input validation for login using zod and refactor repetitive code into small utilities
 
